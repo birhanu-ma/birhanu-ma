@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Birhanu Matebe Gerem</h1>
+  <h1>👋 Hi, I'm Birhanu Matebe</h1>
   <p><strong>Electrical & Computer Engineer | Data Science Intern @ Kifiya AI Mastery (KAIM)</strong></p>
   
   <p>
@@ -52,5 +52,5 @@ Kifiya AI Mastery (KAIM) Program • Nov 2025 – Present
 <div align="center">
   <p>📍 Addis Ababa, Ethiopia</p>
   <p>✉️ <a href="mailto:birhanumatebe12@gmail.com">birhanumatebe12@gmail.com</a> • 📱 +251 918 284 184</p>
-</div> ...
--->
+</div> 
+---
