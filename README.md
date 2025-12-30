@@ -1,6 +1,3 @@
-## Hi there 👋
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/profile-banner.jpg" alt="Banner" style="border-radius: 12px; width: 100%; max-height: 300px; object-fit: cover;">
-
 <div align="center">
   <h1>👋 Hi, I'm Birhanu Matebe Gerem</h1>
   <p><strong>Electrical & Computer Engineer | Data Science Intern @ Kifiya AI Mastery (KAIM)</strong></p>
@@ -55,16 +52,5 @@ Kifiya AI Mastery (KAIM) Program • Nov 2025 – Present
 <div align="center">
   <p>📍 Addis Ababa, Ethiopia</p>
   <p>✉️ <a href="mailto:birhanumatebe12@gmail.com">birhanumatebe12@gmail.com</a> • 📱 +251 918 284 184</p>
-  
-  <p>
-    <a href="https://linkedin.com/in/birhanu-matebe">LinkedIn</a> • 
-    <a href="https://leetcode.com/u/BirhanuMatebe/">LeetCode</a>
-  </p>
-  
-  <p><em>Building intelligent, inclusive technology for a better Ethiopia 🚀</em></p>
 </div> ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
