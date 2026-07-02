@@ -12,7 +12,7 @@
 
 ### 🎓 Education
 **Bachelor of Science in Electrical and Computer Engineering**  
-Addis Ababa Science and Technology University (AASTU) • 2022 – Present  
+Addis Ababa Science and Technology University (AASTU) • 2022 – 2026  
 - Relevant Coursework: Database Systems, OOP (Java), Data Structures, Computational Methods
 
 **React.js Training** • Google Developer Group • 2024 – 2025  
